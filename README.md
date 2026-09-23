@@ -1,22 +1,39 @@
-# 👋 Xin chào, mình là Hòa Tùng Dương  
+# Hi, I'm Hòa Tùng Dương 👋
 
-## 🧑‍💻 Giới thiệu
-- 📚 Sinh viên trường **Trường Đại học Công nghệ – ĐHQGHN** hay **UET-VNU**
-- 🔌 Đang theo học ngành **Mạng máy tính và Truyền thông dữ liệu**  
-- 🔒 Hướng đi mong muốn: **An ninh mạng & Bảo mật thông tin**  
+3rd-year Computer Networking student at University of Engineering and Technology (UET). Specializing in Cybersecurity, with a focus on Networking (CCNA), Linux Administration, and Cloud Infrastructure.
 
-## 🚀 Mục tiêu
-- Nắm vững kiến thức về lập trình, các thuật toán
-- Phát triển kỹ năng đặc thù và kỹ năng mềm
-- Tham gia lab thực hành an ninh mạng và các dự án về CNTT
-- Hướng tới trở thành **Security Engineer**
-
-## 🛠️ Kỹ năng đang học
-- Ngôn ngữ: `Java`, `C++`  
-- Version control: `Git/GitHub`  
-
-## 📫 Liên hệ
-- 📧 Email : *tungduong150906@gmail.com*
 ---
 
+## 🎓 About Me
 
+- **Networking Foundation:** Self-studying CCNA alongside my Computer Networking coursework.
+- **Cloud & Linux Practitioner:** Hands-on with OpenStack (DevStack) on Ubuntu and Kali Linux.
+- **Security-Driven Learner:** Practicing CTFs and building a security-focused GitHub portfolio.
+
+---
+
+## 💻 Tech Stack
+
+- **Languages:** C++, Java, Python, SQL
+- **Networking Tools:** Packet Tracer
+- **Environments:** Linux (Ubuntu, Kali), Windows, OpenStack (DevStack)
+
+## 🌱 Currently Learning
+
+- **Languages:** Bash Script
+- **Tools:** Wireshark, GNS3, Docker
+
+---
+
+## 🎯 Current Goals
+
+- Complete CCNA self-study and strengthen my networking fundamentals.
+- Deepen my Python skills for security and cloud automation.
+- Publish hands-on projects and CTF write-ups to grow a strong cybersecurity GitHub portfolio.
+
+---
+
+## 🌐 Connect with Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tungduong150906@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/dngblck/)
