@@ -14,13 +14,13 @@
 
 ## 💻 Tech Stack
 
-- **Languages:** C++, Java, Python, SQL
+- **Languages:** C++, Java, SQL
 - **Networking Tools:** Packet Tracer
-- **Environments:** Linux (Ubuntu, Kali), Windows, OpenStack (DevStack)
+- **Environments:** Linux (Ubuntu, Kali), Windows, OpenStack (DevStack) 
 
 ## 🌱 Currently Learning
 
-- **Languages:** Bash Script
+- **Languages:** Bash Script, Python
 - **Tools:** Wireshark, GNS3, Docker
 
 ---
